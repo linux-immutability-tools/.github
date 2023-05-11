@@ -1,3 +1,3 @@
 # Linux Immutability Tools
 
-🧰 Creating tools for immutable linux distributions
+🧰 Creating tools for immutable Linux distributions
